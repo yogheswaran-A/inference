@@ -14,5 +14,5 @@ https://huyenchip.com/2021/09/07/a-friendly-introduction-to-machine-learning-com
 Int8 matrix multiplication paper: https://arxiv.org/abs/1712.05877   
 code: https://github.com/google/gemmlowp/blob/master/doc/quantization_example.cc   
 https://github.com/google/gemmlowp/blob/master/doc/quantization.md      
-QLoRA, NF4, paged optimization with code: https://mccormickml.com/2024/09/14/qlora-and-4bit-quantization/#s2-compression   
+QLoRA, NF4, paged optimization with code: https://mccormickml.com/2024/09/14/qlora-and-4bit-quantization/   
 
