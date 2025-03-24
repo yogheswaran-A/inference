@@ -1,5 +1,8 @@
 # inference
-
+To DO: INT8 quantization of 1 layer of nanoGPT
+relevant papers:
+Training Deep Nets with Sublinear Memory Cost : https://arxiv.org/pdf/1604.06174
+QLORA: https://arxiv.org/pdf/2305.14314   
 Qunatization visual guide: https://www.maartengrootendorst.com/blog/quantization/   
 Quantization, pruning, etc: https://intellabs.github.io/distiller/algo_quantization.html    
 Fine-tuning LLMs to 1.58bit: extreme quantization made easy: https://huggingface.co/blog/1_58_llm_extreme_quantization   
