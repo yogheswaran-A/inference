@@ -15,5 +15,6 @@ Int8 matrix multiplication paper: https://arxiv.org/abs/1712.05877
 code: https://github.com/google/gemmlowp/blob/master/doc/quantization_example.cc   
 https://github.com/google/gemmlowp/blob/master/doc/quantization.md      
 QLoRA, NF4, paged optimization with code: https://mccormickml.com/2024/09/14/qlora-and-4bit-quantization/   
-k-Quants in Llama.cpp explanation : https://github.com/ggml-org/llama.cpp/pull/1684   
+k-Quants in Llama.cpp explanation : https://github.com/ggml-org/llama.cpp/pull/1684    
+I-quants in llama.cpp: https://github.com/ggml-org/llama.cpp/pull/4773   
 
