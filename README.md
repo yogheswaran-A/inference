@@ -10,5 +10,5 @@ Techniques: GPTQ, AWQ, NF4, HQQ, GGUF file format based, sharding.
 https://huyenchip.com/2021/09/07/a-friendly-introduction-to-machine-learning-compilers-and-optimizers.html#how_to_optimize   
 Int8 matrix multiplication paper: https://arxiv.org/abs/1712.05877   
 code: https://github.com/google/gemmlowp/blob/master/doc/quantization_example.cc   
-https://github.com/google/gemmlowp/blob/master/doc/quantization_example.cc   
+https://github.com/google/gemmlowp/blob/master/doc/quantization.md      
 
