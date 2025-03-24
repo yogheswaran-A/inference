@@ -17,4 +17,5 @@ https://github.com/google/gemmlowp/blob/master/doc/quantization.md
 QLoRA, NF4, paged optimization with code: https://mccormickml.com/2024/09/14/qlora-and-4bit-quantization/   
 k-Quants in Llama.cpp explanation : https://github.com/ggml-org/llama.cpp/pull/1684    
 I-quants in llama.cpp: https://github.com/ggml-org/llama.cpp/pull/4773   
+Overview of GGUF quantization methods: https://www.reddit.com/r/LocalLLaMA/comments/1ba55rj/overview_of_gguf_quantization_methods/   
 
