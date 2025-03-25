@@ -1,3 +1,4 @@
+https://arxiv.org/abs/2002.10689   
 # inference
 To DO: INT8 quantization of 1 layer of nanoGPT   
 relevant papers:   
