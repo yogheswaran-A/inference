@@ -19,4 +19,5 @@ QLoRA, NF4, paged optimization with code: https://mccormickml.com/2024/09/14/qlo
 k-Quants in Llama.cpp explanation : https://github.com/ggml-org/llama.cpp/pull/1684    
 I-quants in llama.cpp: https://github.com/ggml-org/llama.cpp/pull/4773   
 Overview of GGUF quantization methods: https://www.reddit.com/r/LocalLLaMA/comments/1ba55rj/overview_of_gguf_quantization_methods/   
+llama.cpp install guide: https://blog.steelph0enix.dev/posts/llama-cpp-guide/#do-i-need-rtx-2070-superrx-7900-xt-ot-similar-midhigh-end-gpu-to-do-what-you-did-here
 
