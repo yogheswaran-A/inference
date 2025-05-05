@@ -1,5 +1,5 @@
 Different sampling techniques:      
-https://rentry.org/samplers#top-a     
+https://rentry.org/samplers     
 
 https://arxiv.org/abs/2002.10689   
 # inference
