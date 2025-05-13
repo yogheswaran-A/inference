@@ -24,5 +24,6 @@ I-quants in llama.cpp: https://github.com/ggml-org/llama.cpp/pull/4773
 Overview of GGUF quantization methods: https://www.reddit.com/r/LocalLLaMA/comments/1ba55rj/overview_of_gguf_quantization_methods/   
 llama.cpp install guide: https://blog.steelph0enix.dev/posts/llama-cpp-guide/
 Distillation of Llama 3.1 8B into 1B: https://pytorch.org/torchtune/0.5/tutorials/llama_kd_tutorial.html   
-Fast LLM Inference From Scratch(c++ and cuda): https://andrewkchan.dev/posts/yalm.html
+Fast LLM Inference From Scratch(c++ and cuda): https://andrewkchan.dev/posts/yalm.html     
+MLA, Multi head latent attention: (Paper)https://arxiv.org/pdf/2405.04434, YT video: https://www.youtube.com/watch?v=0VLAoVGf_74    
 
