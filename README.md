@@ -26,4 +26,5 @@ llama.cpp install guide: https://blog.steelph0enix.dev/posts/llama-cpp-guide/
 Distillation of Llama 3.1 8B into 1B: https://pytorch.org/torchtune/0.5/tutorials/llama_kd_tutorial.html   
 Fast LLM Inference From Scratch(c++ and cuda): https://andrewkchan.dev/posts/yalm.html     
 MLA, Multi head latent attention: (Paper)https://arxiv.org/pdf/2405.04434, YT video: https://www.youtube.com/watch?v=0VLAoVGf_74    
+(Paper) LLM inference Survey Paper: https://arxiv.org/abs/2505.13840
 
